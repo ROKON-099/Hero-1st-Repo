@@ -115,3 +115,249 @@ margin-left:200px;
   
 
 }
+banner h3{
+  color:#252432;
+  margin-bottom: 50px;
+  font-size: 25px;
+
+}
+.stats{
+  display: flex;
+  justify-content: center;
+  flex-direction: wrap;
+  gap:50px;
+  
+  }
+  .stats h4{
+    color: #4E47FF;
+    font-size: 1.5em;
+
+
+  }
+  .stats p{
+    color: #5f5d5d;
+    font-size: xx-small;
+  }
+
+  
+.testimonials-section {
+  padding: 60px 20px;
+  background-color: #f9f9f9;
+  text-align: center;
+}
+
+.testimonials-section h3 {
+  font-size: 32px;
+  margin-bottom: 40px;
+  font-weight: 700;
+  color: #333;
+}
+
+.testimonials-wrapper {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 30px;
+  justify-content: center;
+}
+
+.testimonial-card {
+  background-color: #fff;
+  padding: 25px 20px;
+  border-radius: 12px;
+  box-shadow: 0 4px 12px rgba(186, 158, 158, 0.1);
+  max-width: 320px;
+  text-align: left;
+  transition: transform 0.3s ease;
+}
+
+.testimonial-card:hover {
+  transform: translateY(-5px);
+}
+
+.stars {
+  color: #ffc107;
+  font-size: 20px;
+  margin-bottom: 10px;
+}
+
+.testimonial-card h4 {
+  font-size: 20px;
+  margin-bottom: 10px;
+  color: #333;
+}
+
+.testimonial-card p {
+  font-size: 16px;
+  color: #555;
+  margin-bottom: 20px;
+}
+
+.reviewer-details {
+  display: flex;
+  align-items: center;
+  gap: 12px;
+  font-size: 14px;
+  color: #777;
+}
+
+.reviewer-details img {
+  width: 40px;
+  height: 40px;
+  border-radius: 50%;
+  object-fit: cover;
+}
+.action{
+  text-align: center;
+  padding: 40px 20px;
+  background-color: #F9FAFF;
+  margin-top:10px;
+
+
+}
+action .header {
+  font-size: 150%;
+  margin-bottom:10px;
+  color: #000;
+
+
+}
+.action .subtitle{
+ font-size:75%;
+  color: #a9a5a5;
+    margin-top: 20px;
+
+    
+
+    
+    
+  }
+
+.button-box{
+  padding:5px;     
+  background:#4E47FF;
+  border-radius: 5px;
+  display: inline-block;
+  margin-bottom: 20px;
+  border-color: #4E47FF;
+  color: #f9f9f9;
+  cursor: pointer;
+  
+}
+
+
+
+.image-box{
+ 
+  max-width: 900px;
+  margin: 0 auto;
+}
+.image-box img{
+  border-radius: 40px;
+  margin-left: 250px;
+
+
+}
+.input-data {
+      background-color: white;
+      border-radius: 12px;
+      box-shadow: 0 10px 20px rgba(41, 40, 40, 0.1);
+      padding: 40px;
+      display: flex;
+      gap: 80px;
+      width: 100%;
+      
+    }
+
+    .left {
+      flex: 1;
+      display: flex;
+      align-items: center;
+    }
+
+    .left h1 {
+      font-size: 32px;
+      margin: 0;
+      color: #333;
+    }
+
+    .right {
+      flex: 2;
+      display: flex;
+      flex-direction: column;
+    }
+
+    .right label {
+      font-weight: bold;
+      margin-top: 10px;
+      margin-left: 20px;
+    
+      color: #555;
+    }
+
+    .right input,
+    .right textarea {
+      padding: 12px;
+      border-radius: 6px;
+      border: 1px solid #ccc;
+      width: 100%;
+      box-sizing: border-box;
+      font-size: 14px;
+      margin-bottom: 10px;
+    }
+
+    .right textarea {
+      resize: vertical;
+      height: 100px;
+    }
+
+    .right button {
+      margin-top: 15px;
+      padding: 12px;
+      background-color:#4E47FF;
+      color: white;
+      border: none;
+      border-radius: 6px;
+      font-size: 16px;
+      cursor: pointer;
+      
+    }
+    .logo {
+            font-size: 40px;
+            font-weight: bold;
+            color: #4a4aff;
+            margin-top: 70px;
+            width: 100%;
+            text-align: center;
+            height: auto;
+            padding: 10px;
+        
+        }
+        .last-title {
+            font-size: 16px;
+            color: #666;
+            margin:5px;
+            width: 600px;
+            padding: 10px;
+            text-align: center;
+          margin-left: 350px;
+        }
+
+            
+        
+           
+            
+        
+        .navigation-ber {
+            margin:30px 0;
+            display: flex;
+            justify-content: center;
+            
+        }
+        .navigation-ber a {
+            text-decoration: none;
+            color: #666;
+            margin: 0 15px;
+            font-size:14px;
+            color:#666;
+        }
+        
