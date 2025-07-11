@@ -47,3 +47,31 @@
 
 
 }
+.section{
+  margin: 75px;
+  text-align: center;
+  color: rgb(37, 35, 9);
+
+}
+.section button{
+  margin: 10px;
+  width: 100px;
+  background: #4E47FF;
+  padding: 3px;
+  border-radius: 5px;
+  border-color:#4E47FF;
+  color: white;
+  height: 100vh:
+  
+}
+.Action-section{
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  padding: 40px 20px;
+  background-color: #F9FAFF;
+  flex-wrap: wrap;
+  
+}
+.action-text{
+     max-width: 500px;}
