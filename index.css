@@ -44,8 +44,13 @@
   text-decoration: none;
   top:25px;
   right: 75px;
+   transition: background-color 0.3s ease;
+  
 
 
+}
+.nav-ber a:hover{
+    background-color:#FBBC05 ;
 }
 .section{
   margin: 75px;
@@ -62,7 +67,12 @@
   border-color:#4E47FF;
   color: white;
   height: 100vh:
+  transition: background-color 0.3s ease;
   
+}
+.section button:hover{
+    background-color:#FBBC05 ;
+    cursor: pointer;
 }
 .Action-section{
   display: flex;
@@ -95,7 +105,10 @@
   border-color: #4E47FF;
   margin-top:10px;
   cursor: pointer;
-  
+   transition: background-color 0.3s ease;
+  }
+  .button:hover{
+    background-color:#FBBC05 ;
   }
 
 .action-img img{
@@ -241,7 +254,11 @@ action .header {
   border-color: #4E47FF;
   color: #f9f9f9;
   cursor: pointer;
+   transition: background-color 0.3s ease;
   
+}
+.button-box:hover{
+    background-color:#ffc107; 
 }
 
 
@@ -319,7 +336,12 @@ action .header {
       border-radius: 6px;
       font-size: 16px;
       cursor: pointer;
+      transition: background-color 0.3s ease;
       
+      
+    }
+    .right button:hover{
+        background-color: #ffc107;
     }
     .logo {
             font-size: 40px;
