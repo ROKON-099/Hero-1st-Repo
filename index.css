@@ -75,3 +75,43 @@
 }
 .action-text{
      max-width: 500px;}
+     .action-h2{
+  font-size: 25px;
+  margin-bottom: 10px;
+
+}
+.action-p{
+  font-size: 15px;
+  color: #5f5d5d;
+  margin-top: 15px;
+
+}
+.button{
+  background: #4E47FF;
+  color: white;
+  width: 125px;
+  padding: 3px;
+  border-radius: 5px;
+  border-color: #4E47FF;
+  margin-top:10px;
+  cursor: pointer;
+  
+  }
+
+.action-img img{
+width:400px;
+border-radius:25px;
+margin-left:200px;
+}
+.banner{
+  background:#e3e3f4 ;
+  border-radius: 15px;
+  padding: 50px 20px ;
+  text-align: center;
+  width:75%;
+  margin: 30px auto;
+
+
+  
+
+}
