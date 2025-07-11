@@ -2,7 +2,48 @@
   margin:0;
   padding:0;
   box-sizing:border-box;
+}
 .container{
   font-family: Verdana, Geneva, Tahoma, sans-serif;
    
 } 
+.top-ber{
+ background-image: url(Hero-bg.png);
+ background-color: #F9FAFF;
+ height: 100vh;
+ width: 100%;
+
+
+}
+.logo-ber{
+  border: 1px snow ;
+  padding:25px;
+  
+}
+
+  
+  
+
+.logo-box{
+  color: #4E47FF;
+  text-size:100;
+  
+
+}
+.nav-ber a{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  position: absolute;
+  border:1px solid blue ;
+  width:80px;
+  padding: 4px;
+  color: aliceblue;
+  background-color:#4E47FF;
+  border-radius: 3px;
+  text-decoration: none;
+  top:25px;
+  right: 75px;
+
+
+}
